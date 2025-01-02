@@ -18,14 +18,14 @@
 </div>
  
 <div align="center"> 
-  <a href="mailto:nipunnegi2002@gmail.com">
+  <a href="mailto:nipunnegi2002@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/nipunnegi/" target="_blank">
+  <a href="https://www.linkedin.com/in/nipunnegi/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/nipunnegi/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/nipunnegi/" target="_blank" style="text-decoration: none;">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
 
@@ -35,18 +35,10 @@
 <br/>
 <div align="center">
     
-<img src="https://skillicons.dev/icons?i=python,fastapi,mitre,linux,github" width="100"/><br>
+<img src="https://skillicons.dev/icons?i=python,java,linux,github,js" width="400"/><br>
 </div>
 
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>Buy me a Coffee</h2>
-  <a href="https://buymeacoffee.com/your-username" target="_blank" style="text-decoration: none;">
-    <img 
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
-      alt="Buy Me a Coffee" 
-      style="height: 60px; width: 217px;" />
-  </a>
-</div>
+
